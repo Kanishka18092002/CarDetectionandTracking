@@ -631,7 +631,6 @@ if __name__ == "__main__":
     
     if result_path:
         print(f"Success! Processed video saved at: {result_path}")
-        print("Features: Minimal zones (barely visible) and ID-only labels")
     else:
         print("Failed to process video. Please check the input path and try again.")
 
