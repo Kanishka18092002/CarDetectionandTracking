@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+deep_sort_realtime
+ultralytics
+requests
+langchain-community
+langchain-ollama
+shapely
+subprocess
