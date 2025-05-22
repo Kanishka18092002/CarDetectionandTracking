@@ -1,8 +1,8 @@
 import streamlit as st
-from ollama_chat import query_ollama  # Ensure this import is correct
+from ollama_chat import query_ollama  
 import json
 import tempfile
-from video_processing import process_video  # Ensure the correct import for your video processing
+from video_processing import process_video  
 
 
 
